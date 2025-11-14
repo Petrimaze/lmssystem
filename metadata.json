@@ -1,0 +1,5 @@
+{
+  "name": "Copy of LMS Platform Prototype",
+  "description": "A prototype of a Learning Management System (LMS) platform that dynamically generates course content using the Gemini API. It features a dashboard, course details, and lesson views with a modern and responsive user interface.",
+  "requestFramePermissions": []
+}
